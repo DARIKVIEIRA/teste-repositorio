@@ -1,0 +1,155 @@
+.testimonials-containte {
+    background-color: #ffff;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+    max-width: 1449px;
+    margin-bottom: 183px;
+}
+
+.testimonials-header {
+    display: flex;
+    width: auto;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 99px;
+    padding-top: 86px;
+}
+
+.escritas-testimonials {
+    justify-content: center;
+    display: flex;
+    margin: auto;
+    text-align: center;
+    flex-direction: column;
+}
+
+.escritas-testimonials h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    color: #646464;
+    line-height: 30px;
+    text-transform: uppercase;
+    padding-bottom: 3px;
+}
+
+.escritas-testimonials h2 {
+  font-size: 48px;
+  font-weight: 500;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #212121;
+}
+
+.botao-testimonials{
+    display: flex;
+    gap: 18px;
+
+}
+
+.botao-direita {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #ffff;
+    border-radius: 50%;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.14);;
+    border: none;
+    margin: auto;
+}
+ button.botao-proximo svg {
+  transform: rotate(-180deg);
+}
+
+.botao-proximo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 30px;
+    height: 30px;
+    background-color: #37806B;
+    border-radius: 50%;
+    box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.3);
+    border: none;
+    margin: auto;
+    color: #ffff;
+}
+
+.imagem-pessoas {
+    gap: 84px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.testimonials-pessoas {
+    position: relative;
+    background-color: #ffff;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    border-radius: 30px 0px ;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.15);
+    
+}
+
+.imagem-mulher {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 56px;
+}
+
+.imagem-homem {
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    right: 56px;
+}
+
+.testimonials-men{
+    margin: auto;
+    position: relative;
+}
+
+.testimonials-men strong {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 21px;
+    color: #212121;
+}
+
+.texto-testemonials {
+    padding-top: 41px;
+    padding-bottom: 60px;
+    padding-right: 38px;
+}
+.testimonials-men h3 {
+    font-size: 16px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 32px;
+    color: #646464;
+}
+.testimonials-men p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+    color: #646464;
+}
+
+.testimonials-men img {
+    position: absolute;
+    display: flex;
+    top: 15px;
+    right: 30px;
+}
+

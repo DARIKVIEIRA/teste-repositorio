@@ -1,0 +1,91 @@
+/*section1*/
+
+.container{
+    position: relative;
+    height: auto;
+    padding-top: 94px;
+    width: 80%;
+    max-width: 1449px;;
+    margin: auto;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+ 
+}
+
+.rectangulo-imagem {
+    position: relative;
+    z-index: -1;
+    
+    
+}
+
+.imagem-escritorio {
+    position: absolute;
+    top: -30px;
+    right: 30px;
+    
+}
+
+.imagem-section {
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+
+.textos-section1 {
+    padding: 44px;
+    margin: auto;
+    position: relative;
+    text-transform: uppercase;
+
+}
+
+.textos-section1 h3 {
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 12px;
+    color: #646464;
+}
+
+.textos-section1 h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 72px;
+    text-transform: none;
+    font-weight: 600;
+    padding-bottom: 23px;
+    color: #212121;
+}
+
+.textos-section1 p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    text-transform: none;
+    color: #646464;
+    padding-bottom: 46px;
+}
+
+.botao-section1 {
+    border-radius: 20px 0px;
+    border: none;
+    background-color: #37806B;
+    display: flex;
+}
+
+.botao-setion {
+    padding: 10px 28px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pontilhados-primeiro {
+    display: flex;
+    justify-content: start;
+    margin: auto;
+    max-width: 90%;
+    max-width: 1700px;
+}

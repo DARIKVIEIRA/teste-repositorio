@@ -1,0 +1,112 @@
+
+/*section2*/
+.container-section2 {
+    background-color: #ffff;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+    margin-top: 49px;
+    margin: auto;
+    width: 80%;
+    max-width: 1449px;
+}
+
+
+.titulo-section2 {
+    padding-top: 66px;
+    width: auto;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+.artigo-secation2 {
+    gap: 37px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    justify-items: center;
+    margin: auto;
+    padding-bottom: 50px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding-top: 50px;
+}
+
+.escritas-section2 p {
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #646464;
+    padding-bottom: 17px;
+}
+
+.escritas-section2 h2 {
+    font-size: 48px;
+    font-weight: 600;
+    color: #212121;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.div1-section2 {
+    padding: 40px 22px 35px 37px;
+    background-color: #ffff;
+    border-radius: 60px 0px;
+    margin: auto;
+    display: flex;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+}
+.conteudo-section2 h4 {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 12px;
+    color: #212121;
+}
+.conteudo-section2 p {
+ font-size: 18px;
+ font-weight: 400;
+ color: #646464;
+ line-height: 28px;
+}
+
+.imagem-div1{
+    padding-right: 20px;
+}
+
+.div2-section2 {
+    padding: 40px 22px 35px 37px;
+    background-color: #CAA892;
+    border-radius: 60px 0px;
+    margin: auto;
+    display: flex;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+}
+
+.imagem-div2 {
+    gap: 37px;
+}
+
+.conteudo-section2-branco h4 {
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 12px;
+    color: #ffff;
+}
+
+.conteudo-section2-branco p {
+    font-size: 18px;
+    font-weight: 400;
+    color: #ffff;
+    line-height: 28px;
+}
+
+.pontilhados {
+    display: flex;
+    justify-content: end;
+    margin: auto;
+    max-width: 90%;
+    max-width: 1700px;
+}

@@ -1,0 +1,116 @@
+.section5 {
+    align-items: center;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    background-color: #F8F8F8;
+    width: 100%;
+    max-width: 1920px;
+    height: auto;
+    position: relative;
+    padding-bottom: 105px;
+}
+
+.container-section5 {
+    flex-direction: row;
+    position: relative;
+    align-items: center;
+    display: flex;
+    width: 0 auto;
+    margin: auto;
+    margin-bottom: 105px;
+  
+}
+
+.quadrado1 {
+    background-color: #ffff;
+    border-radius: 40px 0px;
+    box-shadow:  0px 13px 16px rgba(0, 0, 0, 0.1);
+   
+    text-align: center;
+    padding: 47px 50px;
+}
+
+.section5 h3 {
+ font-size: 50px;
+ font-weight: 700;
+ color: #212121;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+.section5 h6 {
+    font-size: 18px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 30px;
+    color: #646464;
+}
+
+.linhas {
+    margin: auto;
+    display: flex;
+    padding-top: 92px;
+}
+
+.quadrado2 {
+    background-color: #ffff;
+    border-radius: 40px 0px;
+    box-shadow:  0px 13px 16px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 47px 36px;
+    transform: translate(0%, 50%);
+    position: relative;
+}
+
+.linhas2 {
+    margin: auto;
+    display: flex;
+    padding-top: 92px;
+}
+
+.quadrado3 {
+    background-color: #ffff;
+    border-radius: 40px 0px;
+    box-shadow:  0px 13px 16px rgba(0, 0, 0, 0.1);
+   
+    text-align: center;
+    padding: 47px 50px;
+}
+
+.quadrado4 {
+    background-color: #ffff;
+    border-radius: 40px 0px;
+    box-shadow:  0px 13px 16px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    padding: 47px 49px;
+    transform: translate(0%, 50%);
+    position: relative;
+}
+
+.titulo-section5 {
+    width: 100%;
+    margin: auto;
+   text-align: center;
+   justify-content: center;
+}
+
+.titulo-section5 h5 {
+font-size: 48px;
+font-weight: 500;
+color: #212121;
+font-family: Arial, Helvetica, sans-serif;
+line-height: 60px;
+padding: 87px 0px;
+}
+
+.pontilhados-section5 {
+    position: absolute;
+    bottom: -76px;
+    display: flex;
+    justify-content: start;
+    margin: auto;
+    left: 0px;
+    max-width: 90%;
+    max-width: 1700px;
+    z-index: 2;
+}

@@ -1,0 +1,86 @@
+/*section3*/
+.container-section3 {
+    position: relative;
+    height: auto;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    width: 80%;
+    max-width: 1449px;
+    height: auto;
+    margin: auto;
+}
+
+.section-imagem3 {
+    justify-content: center;
+    display: flex;
+    position: relative;
+   ;
+}
+
+.borda-section3 {
+    position: relative;
+    z-index: -1;
+}
+
+.imagem-section3 {
+    position: absolute;
+    left: 30px;
+    top: 31px;
+   
+}
+
+.textos-section3 {
+    margin: auto;
+    position: relative;
+    padding-left: 132px;
+}
+
+.textos-section3 h5 {
+    font-size: 20px;
+    width: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #646464;
+    line-height: 30px;
+    padding-bottom: 6px;
+}
+.textos-section3 h2 {
+font-size: 48px;
+font-weight: 500;
+line-height: 57px;
+font-family: Arial, Helvetica, sans-serif;
+color: #212121;
+padding-bottom: 22px;
+}
+
+.textos-section3 p {
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    color: #646464;
+    padding-bottom: 28px;
+}
+
+.botao-section3{
+    border-radius: 20px 0px;
+    border: none;
+    background-color: #37806B;
+    display: flex;
+}
+
+.botao-section3 a {
+    padding: 10px 28px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.pontilhados-section3 {
+    display: flex;
+    justify-content: start;
+    margin: auto;
+    max-width: 90%;
+    max-width: 1700px;
+    padding-top: 77px;
+}
